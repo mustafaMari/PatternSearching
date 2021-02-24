@@ -1,5 +1,3 @@
-package Lab12;
-
 import java.util.Scanner;
 
 public class LinesReader
